@@ -1,2 +1,2 @@
-# html1_course_diploma
-My remote university diploma. Course html1
+# htmlacademy.ru_diplomas
+My internet university diplomas.
